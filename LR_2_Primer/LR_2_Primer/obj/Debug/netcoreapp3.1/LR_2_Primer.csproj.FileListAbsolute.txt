@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\bin\Debug\netcoreapp3.1\LR_2_Primer.exe
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\bin\Debug\netcoreapp3.1\LR_2_Primer.deps.json
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\bin\Debug\netcoreapp3.1\LR_2_Primer.runtimeconfig.json
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\bin\Debug\netcoreapp3.1\LR_2_Primer.runtimeconfig.dev.json
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\bin\Debug\netcoreapp3.1\LR_2_Primer.dll
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\bin\Debug\netcoreapp3.1\LR_2_Primer.pdb
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.csprojAssemblyReference.cache
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.Form1.resources
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.csproj.GenerateResource.cache
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.AssemblyInfo.cs
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.dll
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.pdb
+C:\Users\User\Downloads\LR_2_Primer\LR_2_Primer\obj\Debug\netcoreapp3.1\LR_2_Primer.genruntimeconfig.cache
